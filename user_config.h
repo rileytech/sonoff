@@ -8,8 +8,8 @@
 #define CFG_HOLDER             0x20160520   // Change this value to load default configurations
 
 // Wifi
-#define STA_SSID               "riley_house"      // Wifi SSID
-#define STA_PASS               "4218Ventana"  // Wifi password
+#define STA_SSID               ""      // Wifi SSID
+#define STA_PASS               ""  // Wifi password
 #define WIFI_HOSTNAME          "esp-%06x-%s"     // Expands to esp-<last 6 chars of MAC address>-<MQTT_TOPIC>
 
 // Syslog
